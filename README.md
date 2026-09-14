@@ -1,6 +1,6 @@
 ### Hi, I'm muxue 👋
 
-[![VibeUsage](https://vibecafe.ai/@whhjdi/badge)](https://vibecafe.ai/@whhjdi)
+[![VibeUsage](https://vibecafe.ai/@muxue/badge)](https://vibecafe.ai/@muxue)
 
 Exploring AI tools, integrations, and the web.
 
