@@ -1,5 +1,7 @@
 ### Hi, I'm muxue 👋
 
+[![VibeUsage](https://vibecafe.ai/@whhjdi/badge)](https://vibecafe.ai/@whhjdi)
+
 Exploring AI tools, integrations, and the web.
 
 [![GitHub](https://img.shields.io/badge/GitHub-whhjdi-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/whhjdi)
