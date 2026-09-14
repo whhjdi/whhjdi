@@ -31,7 +31,3 @@ Exploring AI tools, integrations, and the web.
 </picture>
 
 <sub>Animation generated with <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
-
-<!--START_SECTION:waka-->
-<!-- Development statistics will appear here after the metrics workflow runs with the required secrets. -->
-<!--END_SECTION:waka-->
